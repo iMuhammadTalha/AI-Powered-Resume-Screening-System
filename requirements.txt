@@ -1,0 +1,6 @@
+gradio
+groq
+pdfminer.six
+sentence-transformers
+torch
+dotenv
